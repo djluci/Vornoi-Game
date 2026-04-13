@@ -43,3 +43,6 @@ The `VoronoiMonteCarloPlayer` implements a sophisticated decision loop:
 1. **Compile the engine:**
    ```bash
    javac *.java
+2. **Launch the Simulation:
+   ```bash
+   java VoronoiGame
